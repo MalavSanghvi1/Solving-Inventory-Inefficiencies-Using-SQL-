@@ -13,7 +13,7 @@ This project focuses on diagnosing and optimizing inventory performance for **Ur
 * **Business Impact**: Reduced stockouts, improved turnover, better forecasting.
 
 ---
-![Alt Text](image/Blankdiagram.png)
+![Alt Text](images/Blankdiagram.png)
 
 
 
